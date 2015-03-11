@@ -1,4 +1,4 @@
-package scjp6.other.androidapp;
+package scjp6.other.androidapp.test1;
 
 /**
  * Created by Yaroslav on 10.03.2015.
