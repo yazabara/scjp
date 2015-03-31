@@ -5,7 +5,5 @@ public class Main {
 
         //correct
         char [] chars = new char[10];
-
-
     }
 }
